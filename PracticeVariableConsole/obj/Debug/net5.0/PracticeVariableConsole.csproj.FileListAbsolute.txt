@@ -1,0 +1,16 @@
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\bin\Debug\net5.0\PracticeVariableConsole.exe
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\bin\Debug\net5.0\PracticeVariableConsole.deps.json
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\bin\Debug\net5.0\PracticeVariableConsole.runtimeconfig.json
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\bin\Debug\net5.0\PracticeVariableConsole.runtimeconfig.dev.json
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\bin\Debug\net5.0\PracticeVariableConsole.dll
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\bin\Debug\net5.0\PracticeVariableConsole.pdb
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\obj\Debug\net5.0\PracticeVariableConsole.csproj.AssemblyReference.cache
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\obj\Debug\net5.0\PracticeVariableConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\obj\Debug\net5.0\PracticeVariableConsole.AssemblyInfoInputs.cache
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\obj\Debug\net5.0\PracticeVariableConsole.AssemblyInfo.cs
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\obj\Debug\net5.0\PracticeVariableConsole.csproj.CoreCompileInputs.cache
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\obj\Debug\net5.0\PracticeVariableConsole.dll
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\obj\Debug\net5.0\refint\PracticeVariableConsole.dll
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\obj\Debug\net5.0\PracticeVariableConsole.pdb
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\obj\Debug\net5.0\PracticeVariableConsole.genruntimeconfig.cache
+C:\Users\Customer\source\repos\PracticeVariable\PracticeVariableConsole\obj\Debug\net5.0\ref\PracticeVariableConsole.dll
